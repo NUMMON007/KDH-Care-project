@@ -1,0 +1,6 @@
+DrinkALC,Smoking,Ecercise,Salt,Sweet
+Never,Never,30 min per day / less than 3 days,1,1
+1-2per/week,1-2pack/week,30 min per day / more than 3 days,2,2
+3-4per/week,3-4pack/week,more than 30 min per day / less than 3 days,3,3
+more than 4 per/week,more than 4 pack/week,more than 30 min per day / more than 3 days,,
+,,None,,
